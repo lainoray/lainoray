@@ -1,0 +1,3 @@
+- Oii me chamo Rayssa laino, tenho 25 anos e sou estudante de análise e desenvolvimento de sistemas.
+- Admiro a área de tecnologia em geral e o que mais me cativa é minha área de front end. Onde eu posso ter a liberdade de criar e desenvolver interfaces visuais que o usuário usa no dia a dia.
+- Para entrar em contato comigo pode ser pelo discord @lainoray ou pelo Linked : https://www.linkedin.com/in/rayssa-laino-46ab72223
